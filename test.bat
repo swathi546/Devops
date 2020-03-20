@@ -1,1 +1,1 @@
-echo "this is my first script"
+echo "this is a test of git integration with jenkins"
